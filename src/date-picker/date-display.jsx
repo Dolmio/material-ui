@@ -80,7 +80,7 @@ let DateDisplay = React.createClass({
           fontSize: 36,
           fontWeight: '400',
           lineHeight: '36px',
-          height: isLandscape ? 76 : 38,
+          height: isLandscape ? 78 : 40,
           opacity: this.state.selectedYear ? 0.7 : 1.0,
           transition: Transitions.easeOut(),
           width: '100%',
