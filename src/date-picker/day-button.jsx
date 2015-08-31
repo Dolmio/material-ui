@@ -53,6 +53,7 @@ let DayButton = React.createClass({
         float: 'left',
         width: 41,
         padding: '4px 2px',
+        margin: '0px',
       },
 
       label: {
